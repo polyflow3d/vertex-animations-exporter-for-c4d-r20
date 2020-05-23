@@ -13,7 +13,7 @@
  <details style=" background-color:white; padding-left: 10px; margin-left: 10px; margin-right: 60px;" >
   <summary>  run maxscript file <i>vertex-animations-exporter-3dsmax.ms</i>  </summary>
 
- ![alt text](https://polyflow.xyz/content/vertex-animation-tools/vertex-animations-exporter-3dsmax/vertex-animations-exporter-3dsmax-runscript-gif.gif)
+ ![alt text](https://polyflow.xyz/content/vertex-animation-tools/vertex-animations-exporter-for-c4d-r20-steps.gif)
 
 </details>
 
