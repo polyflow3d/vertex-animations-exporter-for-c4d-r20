@@ -5,6 +5,8 @@
   
  designed for  [Vertex Animation Tools](http://u3d.as/1iJP)  
 
+ ![alt text](https://polyflow.xyz/content/vertex-animation-tools/c4d-to-vat-baner.gif)
+
 
 ## Compatibility
 * C4D R20 or newer
